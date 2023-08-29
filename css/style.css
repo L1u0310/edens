@@ -1,0 +1,39 @@
+.bg-a{
+    background-color:#433124;
+}
+
+.bg-b{
+    background-color:#7f5e48;
+}
+
+.bg-c{
+    background-color:#a68976;
+}
+.bg-dd{
+    background-color:#5c4a3d;
+}
+.bg-d{
+    background-color:#7e695a;
+}
+
+.bg-e{
+    background-color:#998171;
+}
+
+.bg-f{
+    background-color:#c2aea0;
+}
+
+.text-g{
+color:#413129;
+}
+
+.text-bj{
+color:#b79f95  !important;
+}
+
+
+
+[class*="col-md-4"] {
+    width: 100%;
+  }
